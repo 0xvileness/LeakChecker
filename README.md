@@ -24,6 +24,9 @@ python3 LeakerCheck.py -h
 Installation:
 
 git clone https://github.com/0xvileness/LeakChecker.git
+
 cd LeakChecker
+
 pip3 install -r requirements.txt
+
 python3 LeakCheck.py 
