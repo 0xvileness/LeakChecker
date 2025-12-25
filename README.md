@@ -15,11 +15,11 @@ you can also export txt & json files.
 
 Now that we know how it works, let's put it into practice with the following command:
 
-python3 LeakerCheck.py -k password -n 10
+python3 LeakCheck.py -k password -n 10
 
-python3 LeakerCheck.py -k com -n 10 -d 
+python3 LeakCheck.py -k com -n 10 -d 
 
-python3 LeakerCheck.py -h
+python3 LeakCheck.py -h
 
 Installation:
 
